@@ -9,3 +9,17 @@
   align-items: center;
   font-weight: 600;
 }
+
+.setting_badge {
+  background-color: tomato;
+  width: 18px;
+  height: 18px;
+  font-size: 12px;
+  border-radius: 15px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+  display: flex;
+  margin-left: 10px;
+}
